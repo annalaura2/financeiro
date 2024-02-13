@@ -15,7 +15,7 @@ Chartjs: Versão 3.7.0
 [Financeiro](https://annalaura2.github.io/financeiro/#)
 
 ## Dados do Desenvolvedor
-Anna Laura Castro Sousa
-Celular / Whatsapp: +55 (63) 99127-5908
-E-mail: annalauracodes@gmail.com
-Linkedin: https://www.linkedin.com/in/anna-laura-39158821a/
+### Anna Laura Castro Sousa
+### Celular / Whatsapp: +55 (63) 99127-5908
+### E-mail: annalauracodes@gmail.com
+### Linkedin: https://www.linkedin.com/in/anna-laura-39158821a/
